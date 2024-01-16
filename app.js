@@ -16,8 +16,15 @@ const car = {
     model: 234833,
     color: "black",
 
-}
+};
 
 console.log(car);
 
+const book = {
+    title: "shadow",
+    author: "green",
+    pages: 453,
+};
+
+console.log(book);
 
